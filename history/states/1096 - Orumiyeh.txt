@@ -1,0 +1,24 @@
+state = {
+	id = 1096
+	name = "STATE_1096"
+	manpower = 142500
+
+	state_category = zero
+
+	history = {
+		owner = AZE
+		add_core_of = AZE
+                add_core_of = ARM
+		victory_points = { 10149 1 } #Pondicherry
+		buildings = {
+			infrastructure = 5
+			10149 = {
+				naval_base = 4
+			}
+		}
+	}
+
+	provinces = {
+		9715 1467
+	}
+}
