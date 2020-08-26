@@ -178,6 +178,7 @@ SYR = "countries/MidEast.txt"
 TRK = "countries/MidEast.txt"
 TUN = "countries/MidEast.txt"
 YEM = "countries/MidEast.txt"
+NAK = "countries/MidEast.txt"
 
 ### South/Central America ###
 AMA = "countries/WestEur.txt"
