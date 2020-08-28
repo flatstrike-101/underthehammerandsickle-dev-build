@@ -9,8 +9,13 @@ ideas = {
 	country = {
 
 		NAK_ottoman_menace_idea = {
-			picture = GFX_stalins_georgia
+			picture = GFX_ottoman_menace
 			available = {
+			}
+			allowed_civil_war
+			  always = yes 
+		    }
+
 				is_subject = no
 				ruling_party = social_democrat
 			}
@@ -24,6 +29,7 @@ ideas = {
 				defensive_war_stability_factor = 0.4
 			}
 		}
+	}
 #############
 # Companies #
 #############
