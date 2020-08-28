@@ -15,12 +15,13 @@ ideas = {
 				ruling_party = social_democrat
 			}
 			modifier = {
-				war_support_factor = 0.50
-				defense_bonus_TUR = 2.00
+				war_support_factor = 0.10
+				defense_bonus_TUR = 1.50
 				social_democrat_drift = 0.10
-				weekly_manpower = 1000
+				weekly_manpower = 500
 				resistance_damage_to_garrison = -0.1
 				operative_slot = 3
+				defensive_war_stability_factor = 0.4
 			}
 		}
 #############

@@ -12,10 +12,8 @@ set_technology = {
 }
 
 add_ideas = {
-	ARM_Mehmed_Wehib_Pasha_hog_pau
-	ARM_Boghas_Nubar_Pasha_for_pau
-	ARM_Berch_Keresteciyan_eco_ade
-	ARM_Nikol_Aghbalian_sec_ade
+	NAK_ottoman_menace_idea
+	
 }
 
 set_war_support = 0.35
