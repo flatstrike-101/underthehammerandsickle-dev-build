@@ -1,0 +1,47 @@
+###########
+# Nakhichevan #
+###########
+ideas = {
+
+#################
+# Country ideas #
+#################
+	country = {
+
+		NAK_ottoman_menace_idea = {
+			picture = GFX_stalins_georgia
+			available = {
+				is_subject = no
+				ruling_party = social_democrat
+			}
+			modifier = {
+				war_support_factor = 0.50
+				defense_bonus_TUR = 2.00
+				social_democrat_drift = 0.10
+				weekly_manpower = 1000
+				resistance_damage_to_garrison = -0.1
+				operative_slot = 3
+			}
+		}
+#############
+# Companies #
+#############
+
+#### General ####
+	industrial_concern = {
+	}
+
+#### Weapons ####
+	weapons_manufacturer = {
+		designer = yes
+	}
+
+#### Heavy Equipment ####
+	tank_manufacturer = {
+		designer = yes
+	}
+
+#### Air and Naval ####
+	naval_manufacturer = {
+		designer = yes
+}
