@@ -11,6 +11,10 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideas/ideas/general_staff.dds"
 	}
 
+	spriteType = {
+		name = "GFX_idea_ottoman_menace"
+		texturefile = "gfx/interface/ideas/ideas/ottoman_menace"
+	}
 	### Stability ###
 
 	spriteType = {

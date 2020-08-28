@@ -9,7 +9,7 @@ ideas = {
 	country = {
 
 		NAK_ottoman_menace_idea = {
-			picture = GFX_ottoman_menace
+			picture = ottoman_menace
 			available = {
 			}
 			allowed_civil_war
